@@ -37,7 +37,7 @@ This repository was maintained using standard Git practices as required by the a
 
 ## Team
 
-- Nox (Author)
-- Team Members
+- Prashant Saru
+- other Group Members: Sudin Rokaya, Rahul Purbey, Sworup Kharel and Sarthak Poudel
 
 Instructor: Binod Budathoki
